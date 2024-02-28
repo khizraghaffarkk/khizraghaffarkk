@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 💻
+# Khizra Ghaffar | MERN Stack Developer | Software Engineer| Test Automation
 
 👋 Hello! I'm Khizra Ghaffar, passionate about programming, test automation, and cloud technologies, I am actively seeking exciting opportunities in the software development domain. 🎓 Currently pursuing my Masters in Information Processing Science with a specialization in Software Engineering at the University of Oulu, Finland. With hands-on experience as a MERN Stack Developer and Software Tester, I bring a wealth of knowledge and enthusiasm to any project. Committed to staying up-to-date with the latest industry trends and technologies, I strive to deliver cutting-edge solutions that exceed expectations. Let's innovate and create together! 💡
 
