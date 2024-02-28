@@ -1,6 +1,6 @@
 # Khizra Ghaffar | MERN Stack Developer | Software Engineer| Test Automation
 
-👋 Hello! I'm Khizra Ghaffar, a dedicated Software Engineer specializing in the MERN stack and software automation, currently based in Oulu. With a solid background in Software Engineering, I thrive on solving complex problems and building innovative solutions.
+👋 Hello! I'm Khizra Ghaffar, a dedicated **`Software Engineer`** specializing in the MERN stack and software automation, currently based in Oulu. With a solid background in Software Engineering, I thrive on solving complex problems and building innovative solutions.
 
 🚀 Passionate Developer: I am deeply passionate about software development and always eager to learn and explore new technologies. My expertise lies in crafting test automation as well as robust and scalable web applications using MongoDB, Express.js, React, and Node.js.
 
