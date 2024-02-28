@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 💻
 
-Passionate about programming, test automation, and cloud technologies, I'm on the lookout for exciting opportunities in the Software Development domain. With a background in MSc Information Processing Science with a specialization in Software Engineering from the University of Oulu, Finland, and hands-on experience as a MERN Stack Developer Trainee and Software Tester, I bring a wealth of knowledge and enthusiasm to any project.
+👋 Hello! I'm Khizra Ghaffar, passionate about programming, test automation, and cloud technologies, I am actively seeking exciting opportunities in the software development domain. 🎓 Currently pursuing my Masters in Information Processing Science with a specialization in Software Engineering at the University of Oulu, Finland. With hands-on experience as a MERN Stack Developer and Software Tester, I bring a wealth of knowledge and enthusiasm to any project. Committed to staying up-to-date with the latest industry trends and technologies, I strive to deliver cutting-edge solutions that exceed expectations. Let's innovate and create together! 💡
 
 ## Skills & Expertise 💼
 
@@ -18,16 +18,18 @@ Passionate about programming, test automation, and cloud technologies, I'm on th
 
 ## Work Experience 💼
 
-- MERN Stack Developer Trainee
+- MERN Stack Developer
 - Software Tester
 
-## Certificates & Certifications 🎓
+## Certifications 🎓
 
-- Automation with Cypress & Selenium Course by 10Pearls University
-- Web & Graphic Designing Course, National Textile University
-- Structured Query Language (SQL) Skill Assessment Tests by HackerRank
-- API Testing with Postman & JMeter Course by 10Pearls University
-- Docker for Absolute Beginners Course by KodeKloud
+- Kubernetes Crash Course
+- Docker for Absolute Beginners 
+- Automation with Cypress & Selenium 
+- Web & Graphic Designing 
+- Structured Query Language (SQL) Skill Assessment
+- API Testing with Postman & JMeter 
+
 
 ## Hobbies 🚴‍♂️🌍📚
 
