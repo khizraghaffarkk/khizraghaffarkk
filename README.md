@@ -1,40 +1,13 @@
 # Khizra Ghaffar | MERN Stack Developer | Software Engineer| Test Automation
 
-👋 Hello! I'm Khizra Ghaffar, passionate about programming, test automation, and cloud technologies, I am actively seeking exciting opportunities in the software development domain. 🎓 Currently pursuing my Masters in Information Processing Science with a specialization in Software Engineering at the University of Oulu, Finland. With hands-on experience as a MERN Stack Developer and Software Tester, I bring a wealth of knowledge and enthusiasm to any project. Committed to staying up-to-date with the latest industry trends and technologies, I strive to deliver cutting-edge solutions that exceed expectations. Let's innovate and create together! 💡
+👋 Hello! I'm Khizra Ghaffar, a dedicated Software Engineer specializing in the MERN stack and software automation, currently based in Oulu. With a solid background in Software Engineering, I thrive on solving complex problems and building innovative solutions.
 
-## Skills & Expertise 💼
+🚀 Passionate Developer: I am deeply passionate about software development and always eager to learn and explore new technologies. My expertise lies in crafting test automation as well as robust and scalable web applications using MongoDB, Express.js, React, and Node.js.
 
-- **Programming Languages**: C++, Python, JavaScript
-- **Web Development**: HTML5, CSS, JQuery, React, Bootstrap, Tailwind
-- **Frameworks & Databases**: Robot Framework, TestNG, Agile, Scrum, SQL, MySQL
-- **Tools & Platforms**: Docker, Kubernetes, DevOps, CI/CD, Jenkins, Git, Notion, Figma, TestRail, Jira, Slack, Cypress, Selenium, Visual Studio Code, Trello, API Testing, JMeter, Postman
-- **Operating Systems**: Windows, Linux
-- **Interpersonal Skills**: Adaptable to New Technology, Teamwork, Eager to Learn, Effective Communication, Collaboration, Problem-Solving
+🎓 Continuous Learner: Currently pursuing a Master's degree in Information Processing Science with a specialization in Software Engineering, I am committed to staying updated with the latest industry trends and technologies. My academic background has provided me with a strong foundation in software architecture, algorithms, and data structures.
 
-## Education 📚
+💼 Professional Experience: I've contributed to diverse projects, handling tasks from software testing to designing interfaces and optimizing systems, always with enthusiasm and attention to detail.
 
-- MSc Information Processing Science (Specialization: Software Engineering), University of Oulu, Finland
-- BSc Software Engineering
+🌟 Creative Problem Solver: Beyond coding, I consider myself a creative thinker and problem solver. I believe in the power of technology to make a positive impact on society, and I am dedicated to creating software that not only meets but exceeds user expectations.
 
-## Work Experience 💼
-
-- MERN Stack Developer
-- Software Tester
-
-## Certifications 🎓
-
-- Kubernetes Crash Course
-- Docker for Absolute Beginners 
-- Automation with Cypress & Selenium 
-- Web & Graphic Designing 
-- Structured Query Language (SQL) Skill Assessment
-- API Testing with Postman & JMeter 
-
-
-## Hobbies 🚴‍♂️🌍📚
-
-- Cycling
-- Travelling
-- Reading
-
-Feel free to explore my repositories and connect with me! Let's collaborate and create something amazing together! 🚀
+📫 Let's Connect: I'm always open to new opportunities and collaborations! Feel free to reach out to me here on GitHub or connect with me on LinkedIn. Let's work together to turn ideas into reality!
