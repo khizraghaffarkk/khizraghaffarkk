@@ -8,9 +8,10 @@
 
 💼 Professional Experience: My diverse experience includes:
 
-Research Intern: Leveraging LLMs to enhance observability in telecommunications, focusing on data interpretation and model accuracy.
-Software Tester: Conducting manual and automation testing, creating test plans, and collaborating with development teams to ensure high-quality software delivery using tools like Selenium, Cypress, and Postman.
-MERN Stack Developer: Designing user interfaces and optimizing backend systems, while conducting API testing and integrating with cloud services.
+- Research Intern: Leveraging LLMs to enhance observability in telecommunications, focusing on data interpretation and model accuracy.
+- Software Tester: Conducting manual and automation testing, creating test plans, and collaborating with development teams to ensure high-quality software delivery using tools like Selenium, Cypress, and Postman.
+- MERN Stack Developer: Designing user interfaces and optimizing backend systems, while conducting API testing and integrating with cloud services.
+
 🌟 Creative Problem Solver: Beyond coding, I consider myself a creative thinker and problem solver. I believe in the power of technology to create a positive impact and am dedicated to developing software that not only meets but exceeds user expectations.
 
 📫 Let's Connect: I'm always open to new opportunities and collaborations! Feel free to reach out to me here on GitHub or connect with me on LinkedIn. Let’s work together to turn ideas into reality!
