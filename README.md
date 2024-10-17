@@ -1,4 +1,4 @@
-# Khizra Ghaffar | Software Engineer | Artificial Intelligence | DevOps | | Test Automation | MERN Stack Developer
+# Khizra Ghaffar | Software Engineer | Artificial Intelligence | DevOps | Test Automation | MERN Stack Developer
 
 👋 Hello! I'm Khizra Ghaffar, a dedicated Software Engineer, specializing in AI, DevOps, cloud technologies, and test automation. With a strong foundation in Software Engineering, I thrive on solving complex problems and building innovative solutions.
 
