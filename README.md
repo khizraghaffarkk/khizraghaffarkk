@@ -8,19 +8,15 @@
 
 💼 Professional Experience: My diverse experience includes:
 
-- **Research Intern:** Leveraging LLMs to enhance observability in telecommunications, focusing on data interpretation and model accuracy.
-- **Software Tester:** Conducting manual and automation testing, creating test plans, and collaborating with development teams to ensure high-quality software delivery using tools like Selenium, Cypress, Robot Framework, Postman, and modern deployment practices.
-- **MERN Stack Developer:** Designing user interfaces and optimizing backend systems, while conducting API testing using Postman.
+- **Summer Trainee | Futurice** Optimized AI-driven solutions and maintained data pipelines within internal systems.
 
-- **Summer Trainee | Futurice | Helsinki, Finland | 06/2025 – 08/2025** Optimized AI-driven solutions and maintained data pipelines within internal systems.
+- **Master Thesis Worker | Ericsson** Applied Generative AI to automate and optimize RESTful API service selection and integration.
 
-- **Master Thesis Worker | Ericsson | Espoo, Finland | 12/2024 – 05/2025** Applied Generative AI to automate and optimize RESTful API service selection and integration.
+- **Research Intern| Ericsson** Utilized Generative AI and LLMs for telecom observability, synthetic data generation, and evaluation of AI models.
 
-- **Research Intern, Cognitive Distributed Cloud | Ericsson | Espoo, Finland | 05/2024 – 08/2024** Utilized Generative AI and LLMs for telecom observability, synthetic data generation, and evaluation of AI models.
+- **MERN Stack Developer Intern | NeurobotX** Designing user interfaces and optimizing backend systems, while conducting API testing using Postman.
 
-- **MERN Stack Developer Intern | NeurobotX | 05/2023 – 07/2023** Designing user interfaces and optimizing backend systems, while conducting API testing using Postman.
-
-- **Software Tester | Alpha Logics | 07/2022 – 03/2023** Conducting manual and automation testing, creating test plans, and collaborating with development teams to ensure high-quality software delivery using various test automation tools and modern deployment practices.
+- **Software Tester | Alpha Logics** Conducting manual and automation testing, creating test plans, and collaborating with development teams to ensure high-quality software delivery using various test automation tools and modern deployment practices.
 
 🌟 Creative Problem Solver: Beyond coding, I consider myself a creative thinker and problem solver. I believe in the power of technology to create a positive impact and am dedicated to developing software that not only meets but exceeds user expectations.
 
